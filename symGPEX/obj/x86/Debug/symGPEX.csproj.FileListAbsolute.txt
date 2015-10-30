@@ -1,0 +1,8 @@
+C:\Users\baumuellerju50\Desktop\Test\git\symGPEX\symGPEX\bin\Debug\symGPEX.exe
+C:\Users\baumuellerju50\Desktop\Test\git\symGPEX\symGPEX\bin\Debug\symGPEX.pdb
+C:\Users\baumuellerju50\Desktop\Test\git\symGPEX\symGPEX\obj\x86\Debug\symGPEX.gpexBase.resources
+C:\Users\baumuellerju50\Desktop\Test\git\symGPEX\symGPEX\obj\x86\Debug\symGPEX.Properties.Resources.resources
+C:\Users\baumuellerju50\Desktop\Test\git\symGPEX\symGPEX\obj\x86\Debug\symGPEX.csproj.GenerateResource.Cache
+C:\Users\baumuellerju50\Desktop\Test\git\symGPEX\symGPEX\obj\x86\Debug\symGPEX.exe
+C:\Users\baumuellerju50\Desktop\Test\git\symGPEX\symGPEX\obj\x86\Debug\symGPEX.pdb
+C:\Users\baumuellerju50\Desktop\Test\git\symGPEX\symGPEX\obj\x86\Debug\symGPEX.csprojResolveAssemblyReference.cache
